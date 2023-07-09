@@ -14,7 +14,7 @@ Simple image editor, built with vanilla Javascript.
 or you can Download it via Zip
 
 - Run it via Live Server Extension (Visual Studio Code)
-- Choose your image with button on below
+- Choose your image with "Choose Image" button on below
 - Edit freely as you like
 
 ## Color Reference
