@@ -2,7 +2,7 @@
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 
-Simple image editor, built with vanilla Javascript.
+Simple yet concise image editor, built with vanilla Javascript.
 
 ## How To Use
 
