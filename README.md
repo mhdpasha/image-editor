@@ -8,7 +8,7 @@ Simple image editor, built with vanilla Javascript.
 
 - Clone this github repo
 ```bash
-  git clone https://link-to-project
+  [git clone https://link-to-project](https://github.com/mhdpasha/image-editor.git)
 ```
 
 or you can Download it via Zip
